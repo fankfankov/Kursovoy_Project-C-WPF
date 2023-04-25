@@ -1,0 +1,69 @@
+﻿<Window x:Class="CarShop228.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarShop228"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        ResizeMode="NoResize"
+        MouseDown="Window_MouseDown"
+        Title="CarShop" Height="720" Width="1280" WindowStyle="None">
+    <Grid Height="720" Width="1280" VerticalAlignment="Center" HorizontalAlignment="Center" Background="#FFF3F4F6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="65*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="19*"/>
+            <ColumnDefinition Width="109*"/>
+        </Grid.ColumnDefinitions>
+        <Image Margin="0,0,0,39" Source="/closepanel.png" Stretch="Fill" Grid.ColumnSpan="2"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="1050,10,0,0" VerticalAlignment="Top" BorderBrush="{x:Null}" Width="22" Height="21" Click="Button_Click" Grid.Column="1">
+            <Button.Background>
+                <ImageBrush ImageSource="/close_button.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Margin="1016,10,0,0" VerticalAlignment="Top" BorderBrush="{x:Null}" Width="22" Height="20" Click="Button_Click_2" Grid.Column="1">
+            <Button.Background>
+                <ImageBrush ImageSource="/rollup_button.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Image Margin="0,0,2,0" Source="/sidebar.png" Stretch="Fill" Grid.Row="1"/>
+        <TextBlock x:Name="TextBlock" HorizontalAlignment="Left" Margin="63,73,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" Width="127" Height="24"/>
+        <Image Margin="21,71,148,557" Source="/avatar_small.png" Stretch="Fill" Grid.Row="1"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="20,67,0,0" VerticalAlignment="Top" Width="170" Height="30" BorderBrush="{x:Null}" Click="Btn_Settings_CL" FontSize="14" FontFamily="Arial" Grid.Row="1" />
+        <Image Margin="-13,168,13,454" Source="/active_button.png" Stretch="Fill" Grid.Row="1"/>
+        <Button Visibility="Hidden" Content="Отчёты" HorizontalAlignment="Left" Margin="0,102,0,0" VerticalAlignment="Top" Width="180" Height="26" BorderBrush="{x:Null}" FontFamily="Arial" FontSize="14" Click="Btn_Rep_CL" Grid.Row="1"/>
+        <Image Visibility="Hidden" Margin="35,105,139,525" Source="/reports_.png" Stretch="Fill" Grid.Row="1"/>
+        <Button Content="Продажи" HorizontalAlignment="Center" Margin="0,136,0,0" VerticalAlignment="Top" Width="190" Height="26" BorderBrush="{x:Null}" FontFamily="Arial" FontSize="14" Click="Btn_Sell_CL" Grid.Row="1"/>
+        <Image Margin="35,141,139,493" Source="/prodaji.png" Stretch="Fill" Grid.Row="1"/>
+        <Button Content="Каталог" HorizontalAlignment="Left" Margin="2,170,0,0" VerticalAlignment="Top" Width="180" Height="26" BorderBrush="{x:Null}" FontFamily="Arial" FontSize="14" Click="Btn_Katalog_CL" Grid.Row="1"/>
+        <Image Margin="35,172,139,458" Source="/catalog.png" Stretch="Fill" Grid.Row="1"/>
+
+        <DataGrid x:Name="Catalog_DataGrid" IsReadOnly="True" Grid.Column="1" Grid.Row="1" BorderBrush="{x:Null}" AutoGenerateColumns="False" Margin="0,0,0,98" Background="#FFF3F4F6" FontFamily="Arial" FontSize="14">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№" Width="30" Binding="{Binding id}"/>
+                <DataGridTextColumn Header="Машина" Width="*" Binding="{Binding name}"/>
+                <DataGridTextColumn Header="Марка" Width="*" Binding="{Binding model}"/>
+                <DataGridTextColumn Header="Цвет" Width="*" Binding="{Binding color}"/>
+                <DataGridTextColumn Header="Комплектация" Width="*" Binding="{Binding complectation.title}"/>
+                <DataGridTextColumn Header="Цена" Width="*" Binding="{Binding price}"/>
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="Edit_Btn_Click" Content="Изменить" VerticalAlignment="Top" Height="20" Background="#FF116ACC" Foreground="White"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Click="Add_Btn_CLick" Grid.Column="1" Content="Добавить" HorizontalAlignment="Left" Margin="71,580,0,0" Grid.Row="1" VerticalAlignment="Top" Height="41" Width="92" Background="#FF116ACC" Foreground="White" FontFamily="Arial" FontSize="14"/>
+        <Button Visibility="Hidden" Click="Export_Click" Grid.Column="1" x:Name="Export" Content="Экспорт" HorizontalAlignment="Left" Margin="200,580,0,0" Grid.Row="1" VerticalAlignment="Top" Height="41" Width="92" Background="#FF116ACC" Foreground="White" FontFamily="Arial" FontSize="14"/>
+        <Button Name="Del_Btn" Click="Del_Btn_Click" Grid.Column="1" Content="Удалить" HorizontalAlignment="Left" Margin="200,580,0,0" Grid.Row="1" VerticalAlignment="Top" Height="41" Width="92" Background="#FF116ACC" Foreground="White" FontFamily="Arial" FontSize="14"/>
+        <Button Grid.Column="1" Content="Открыть полный список машин" HorizontalAlignment="Left" Margin="758,580,0,0" Grid.Row="1" VerticalAlignment="Top" Height="41" Width="295" Background="#FF116ACC" Foreground="White" Click="Open_Full_Click" FontFamily="Arial" FontSize="14"/>
+        <Image Margin="35,10,35,594" Source="/logo.png" Stretch="Fill" Grid.Row="1"/>
+        <Button Click="Refresh_Btn_Click" Grid.Column="1" Content="Обновить" HorizontalAlignment="Left" Margin="631,580,0,0" Grid.Row="1" VerticalAlignment="Top" Height="41" Width="92" Background="#FF116ACC" Foreground="White" FontFamily="Arial" FontSize="14"/>
+    </Grid>
+</Window>
