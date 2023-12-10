@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище CarShopDBModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="buying">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="customerFname" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="customerLname" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="carID" Type="int" Nullable="false" />
+    <Property Name="purchaseAmount" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="purchaseDate" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="car">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="model" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="color" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="complectationID" Type="int" Nullable="false" />
+    <Property Name="price" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="complectation">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="title" Type="nchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="role">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="title" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="userlog">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="login" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="roleID" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_buying_car">
+    <End Role="car" Type="Self.car" Multiplicity="1" />
+    <End Role="buying" Type="Self.buying" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="car">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="buying">
+        <PropertyRef Name="carID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_car_complectation">
+    <End Role="complectation" Type="Self.complectation" Multiplicity="1" />
+    <End Role="car" Type="Self.car" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="complectation">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="car">
+        <PropertyRef Name="complectationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_user_role">
+    <End Role="role" Type="Self.role" Multiplicity="1" />
+    <End Role="userlog" Type="Self.userlog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="role">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="userlog">
+        <PropertyRef Name="roleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище CarShopDBModelContainer">
+    <EntitySet Name="buying" EntityType="Self.buying" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="car" EntityType="Self.car" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="complectation" EntityType="Self.complectation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="role" EntityType="Self.role" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="userlog" EntityType="Self.userlog" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_buying_car" Association="Self.FK_buying_car">
+      <End Role="car" EntitySet="car" />
+      <End Role="buying" EntitySet="buying" />
+    </AssociationSet>
+    <AssociationSet Name="FK_car_complectation" Association="Self.FK_car_complectation">
+      <End Role="complectation" EntitySet="complectation" />
+      <End Role="car" EntitySet="car" />
+    </AssociationSet>
+    <AssociationSet Name="FK_user_role" Association="Self.FK_user_role">
+      <End Role="role" EntitySet="role" />
+      <End Role="userlog" EntitySet="userlog" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,977 @@
+E:\КПКПКП\CarShop\CarShop228\CarShop228\bin\Debug\CarShop228.exe.config
+E:\КПКПКП\CarShop\CarShop228\CarShop228\bin\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228\CarShop228\bin\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\MainWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\App.g.cs
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\MainWindow.baml
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.g.resources
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\Window1.g.cs
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\Window1.baml
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\Window2.g.cs
+E:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\Window2.baml
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\MainWindow.g.cs
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\Window1.g.cs
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\Window2.g.cs
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\App.g.cs
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.exe
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.pdb
+G:\КПКПКП\CarShop\CarShop228\CarShop228\bin\Debug\CarShop228.exe.config
+G:\КПКПКП\CarShop\CarShop228\CarShop228\bin\Debug\CarShop228.exe
+G:\КПКПКП\CarShop\CarShop228\CarShop228\bin\Debug\CarShop228.pdb
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\MainWindow.baml
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\Window1.baml
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\Window2.baml
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.g.resources
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\App.baml
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\Window3.g.cs
+G:\КПКПКП\CarShop\CarShop228\CarShop228\obj\Debug\Window3.baml
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\bin\Debug\CarShop228.exe.config
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\bin\Debug\CarShop228.exe
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\bin\Debug\CarShop228.pdb
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\bin\Debug\EntityFramework.dll
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\bin\Debug\EntityFramework.xml
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\App.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228_Content.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\App.baml
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228.g.resources
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228.exe
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\CarShop228.pdb
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\MainWindow.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\Window1.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\Window2.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\Window3.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\MainWindow.baml
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\Window1.baml
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\Window2.baml
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\Window3.baml
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\MainWindow.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window1.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window2.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window3.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\App.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228_Content.g.cs
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.exe
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.pdb
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\CarShop228.exe.config
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\CarShop228.exe
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\CarShop228.pdb
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\EntityFramework.dll
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\EntityFramework.xml
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\App.baml
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\MainWindow.baml
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window1.baml
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window2.baml
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window3.baml
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.g.resources
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+G:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\CarShop228.exe.config
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\EntityFramework.dll
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\EntityFramework.xml
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\App.g.cs
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228_Content.g.cs
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\App.baml
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.g.resources
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\MainWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window1.g.cs
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window2.g.cs
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window3.g.cs
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\MainWindow.baml
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window1.baml
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window2.baml
+E:\КПКПКП\CarShop\CarShop228 — копия — копия\CarShop228\obj\Debug\Window3.baml
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\bin\Debug\CarShop228.exe.config
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\bin\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\bin\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\bin\Debug\EntityFramework.dll
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\bin\Debug\EntityFramework.xml
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\MainWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\Window1.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\Window2.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\Window3.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\App.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228_Content.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\App.baml
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\MainWindow.baml
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\Window1.baml
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\Window2.baml
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\Window3.baml
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228.g.resources
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\Window4.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.10\CarShop228\obj\Debug\Window4.baml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\CarShop228.exe.config
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\EntityFramework.dll
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\EntityFramework.xml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\MainWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window1.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window2.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window3.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window4.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\App.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228_Content.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\App.baml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\MainWindow.baml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window1.baml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window2.baml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window3.baml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window4.baml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.g.resources
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\CarShop228.exe.config
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\CarShop228.exe
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\CarShop228.pdb
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\EntityFramework.dll
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\EntityFramework.xml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\MainWindow.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window1.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window2.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window3.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window4.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\App.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228_Content.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\App.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\MainWindow.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window1.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window2.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window3.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\Window4.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.g.resources
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.exe
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+G:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AddEditDelPages\EditPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.20\CarShop228\obj\Debug\AddEditDelPages\EditPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\CarShop228.exe.config
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\EntityFramework.dll
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\EntityFramework.xml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\EditPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\MainWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window1.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window2.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window3.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window4.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\App.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228_Content.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\App.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\EditPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\MainWindow.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window1.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window2.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window3.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window4.baml
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.g.resources
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.pdb
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\CarShop228.exe.config
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\CarShop228.exe
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\CarShop228.pdb
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\EntityFramework.dll
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\EntityFramework.xml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\EditPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\MainWindow.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window1.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window2.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window3.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window4.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\App.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228_Content.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\App.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AddEditDelPages\EditPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\MainWindow.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window1.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window2.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window3.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\Window4.baml
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.g.resources
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.exe
+F:\КПКПКП\CarShop\CarShop228 0.30\CarShop228\obj\Debug\CarShop228.pdb
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\EditPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\MainWindow.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window1.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window2.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window3.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window4.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\App.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228_Content.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.exe
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.pdb
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\CarShop228.exe.config
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\CarShop228.exe
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\CarShop228.pdb
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\EntityFramework.dll
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\EntityFramework.xml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\App.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\EditPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\MainWindow.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window1.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window2.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window3.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window4.baml
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.g.resources
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+F:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\CarShop228.exe.config
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\EntityFramework.dll
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\EntityFramework.xml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\EditPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\MainWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window1.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window2.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window3.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window4.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\App.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228_Content.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\App.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AddEditDelPages\EditPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\MainWindow.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window1.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window2.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window3.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\Window4.baml
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.g.resources
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 0.30 — копия\CarShop228\obj\Debug\CarShop228.pdb
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\bin\Debug\CarShop228.exe.config
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\bin\Debug\CarShop228.exe
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\bin\Debug\CarShop228.pdb
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.dll
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.xml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\EditPage.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\MainWindow.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\Window1.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\Window2.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\Window3.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\Window4.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\App.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228_Content.g.cs
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\App.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\EditPage.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\MainWindow.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\Window1.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\Window2.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\Window3.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\Window4.baml
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.g.resources
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.exe
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.pdb
+C:\Users\NeOffFani\Desktop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.ResolveComReference.cache
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.ResolveComReference.cache
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\EditPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AuthCode\AuthWindow.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\MainWindow.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window1.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window2.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window3.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window4.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\App.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228_Content.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.exe
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.pdb
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\CarShop228.exe.config
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\CarShop228.exe
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\CarShop228.pdb
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.dll
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.xml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\App.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\EditPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AuthCode\AuthWindow.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\MainWindow.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window1.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window2.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window3.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window4.baml
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.g.resources
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+F:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.ResolveComReference.cache
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\EditPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\MainWindow.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window2.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window3.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window4.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\App.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228_Content.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\CarShop228.exe.config
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\CarShop228.exe
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\CarShop228.pdb
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.dll
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.xml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\App.baml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\AddEditDelPages\EditPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\MainWindow.baml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window2.baml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window3.baml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\Window4.baml
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.g.resources
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.g.cs
+E:\КПКПКП\CarShop\CarShop228 0.31\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.baml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\bin\Debug\CarShop228.exe.config
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\bin\Debug\CarShop228.exe
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\bin\Debug\CarShop228.pdb
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\bin\Debug\EntityFramework.dll
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\bin\Debug\EntityFramework.xml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228.csproj.ResolveComReference.cache
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\MainWindow.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\Window2.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\Window3.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\Window4.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\App.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228_Content.g.cs
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\App.baml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.baml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\MainWindow.baml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\Window2.baml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\Window3.baml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\Window4.baml
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228.g.resources
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228.exe
+F:\КПКПКП\CarShop\CarShop228 0.50\CarShop228\obj\Debug\CarShop228.pdb
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.exe.config
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.exe
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.pdb
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.dll
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.xml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.ResolveComReference.cache
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.g.cs
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\MainWindow.g.cs
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window2.g.cs
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window3.g.cs
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window4.g.cs
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\App.g.cs
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_Content.g.cs
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\App.baml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.baml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\MainWindow.baml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window2.baml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window3.baml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window4.baml
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.g.resources
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.exe
+F:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.pdb
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.exe.config
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.exe
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.pdb
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.dll
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.xml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.ResolveComReference.cache
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.g.cs
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\MainWindow.g.cs
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window2.g.cs
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window3.g.cs
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window4.g.cs
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\App.g.cs
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_Content.g.cs
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\App.baml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.baml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\MainWindow.baml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window2.baml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window3.baml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\Window4.baml
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.g.resources
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.exe
+G:\КПКПКП\CarShop\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.pdb
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.exe.config
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.exe
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.pdb
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.dll
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.xml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.ResolveComReference.cache
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.g.cs
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\MainWindow.g.cs
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window2.g.cs
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window3.g.cs
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window4.g.cs
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\App.g.cs
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_Content.g.cs
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\App.baml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.baml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\MainWindow.baml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window2.baml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window3.baml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window4.baml
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.g.resources
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.exe
+C:\Users\Student22_07\Desktop\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.pdb
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.ResolveComReference.cache
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\MainWindow.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window2.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window3.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window4.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\App.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_Content.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.exe
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.pdb
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.exe.config
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.exe
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\CarShop228.pdb
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.dll
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.xml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\App.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\MainWindow.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window2.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window3.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\Window4.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.g.resources
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228.csproj.ResolveComReference.cache
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\MainWindow.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\Window2.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\Window3.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\Window4.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\App.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228_Content.g.cs
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228.exe
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228.pdb
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\bin\Debug\CarShop228.exe.config
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\bin\Debug\CarShop228.exe
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\bin\Debug\CarShop228.pdb
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\bin\Debug\EntityFramework.dll
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\bin\Debug\EntityFramework.xml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\App.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\MainWindow.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\Window2.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\Window3.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\Window4.baml
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228.g.resources
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+E:\Kursovoy_Project-C-WPF-main\CarShop228 1.00 — копия\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228.csproj.AssemblyReference.cache
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228.csproj.SuggestedBindingRedirects.cache
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228.csproj.ResolveComReference.cache
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.g.cs
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\AddEditDelPages\AddPage.g.cs
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.g.cs
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.g.cs
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\MainWindow.g.cs
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\Window2.g.cs
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\Window3.g.cs
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\Window4.g.cs
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\App.g.cs
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228_Content.g.cs
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228_MarkupCompile.cache
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228_MarkupCompile.lref
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228.exe
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\CarShop228.exe.config
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\CarShop228.exe
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\CarShop228.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\EntityFramework.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\EntityFramework.SqlServer.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\EntityFramework.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\EntityFramework.SqlServer.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\ru\EntityFramework.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\App.baml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\AddEditDelPages\AddCarPage.baml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\AddEditDelPages\AddPage.baml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\DataFullScreen\CarsFullScreen.baml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\DataFullScreen\SellsFullPage.baml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\MainWindow.baml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\Window2.baml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\Window3.baml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\Window4.baml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228.g.resources
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228.Properties.Resources.resources
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228.csproj.GenerateResource.cache
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228.csproj.CoreCompileInputs.cache
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\obj\Debug\CarShop228.csproj.CopyComplete
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Azure.Core.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Azure.Identity.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Identity.Client.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Assessment.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Dmf.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Smo.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Newtonsoft.Json.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Buffers.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Memory.Data.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Memory.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Numerics.Vectors.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Security.AccessControl.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Security.Permissions.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Security.Principal.Windows.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Text.Encodings.Web.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Text.Json.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.ValueTuple.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Azure.Core.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Azure.Identity.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Data.SqlClient.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Data.SqlClient.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Identity.Client.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Assessment.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll.config
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Dmf.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Smo.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Smo.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\Newtonsoft.Json.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Buffers.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Memory.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Memory.Data.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Numerics.Vectors.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Security.AccessControl.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Security.Permissions.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Security.Principal.Windows.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Text.Encodings.Web.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Text.Json.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\System.ValueTuple.xml
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\Kursovoy_Project-C-WPF-main\CarShop228 2.00\CarShop228\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
